@@ -103,4 +103,4 @@ In this workshop, you will learn how to:
 ## Acknowledgements
 
 * **Author** - Taylor Zheng
-* **Contributors** - Anthony Marino
+* **Contributors** - Anthony Marino, Uma Kumar, Deion Locklear, Wynne Yang
