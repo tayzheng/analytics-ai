@@ -1,4 +1,4 @@
-# Lab 4: Test the Solution
+# Lab 2: Test the Solution
 
 ## Introduction
 

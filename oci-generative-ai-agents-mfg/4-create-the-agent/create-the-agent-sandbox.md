@@ -1,4 +1,4 @@
-# Lab 3: Create the Agent
+# Lab 1: Create the Agent
 
 ## Introduction
 
